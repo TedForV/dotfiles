@@ -1,0 +1,6 @@
+set clipboard=unnamed
+set display+=lastline
+set number
+set cursorline
+set showmode
+set showmatch
