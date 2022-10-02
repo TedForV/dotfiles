@@ -5,3 +5,5 @@ set showmode
 set showmatch
 set number
 set relativenumber
+
+let mapleader = "\<space>"
